@@ -1,6 +1,6 @@
 server:
   port: 8084  # ${PORT:8080}
-profile: asd_new
+profile: houchao-test
 logging:
   level:
     ROOT: INFO
